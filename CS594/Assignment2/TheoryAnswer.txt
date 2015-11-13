@@ -1,0 +1,21 @@
+Our project was on Crime rate across all states in U.S.. We had equally distributed project which had four parts :
+a) Data Acquisition
+b) Data Storage
+c) Data Analysis
+d) Data Visualization
+
+Since the core of the project was Data analysis we performed that as a team. Rest three was distributed and helped if needed any to the peer. 
+
+What is your personal contribution to the Data Science class's project?
+Part 1.) 
+I personally did some of Data Analysis and complete Data Visualization  
+There were many factors that one had to consider when acquiring data from the website which we used. The most important here was to understand is what domain does the data reside in. In our case, we understood the domain(s) and adjusted the acquisition methodology. I had to refine the output a lot more than just the data the domain provided as it contains multiple content which was not needed. 
+
+Visualization was the most interesting and challenging in my part as I had to properly map the result of the analysis done and verify with the actual data by doing EDA and display the different types of charts we used to present our data. Each chart needed data in some different format as an input.
+
+What is the most interesting finding your team uncovered as a result of your Data Science project ?
+Part 2.) The most interesting finding was the final analyzed result which changed our assumption we had that the crime rate would be highest in state which has high population and lowest in state which has low population. But after performing the mathematical analysis and linear progression on our data and discovered the answer to our Big Data Project Question, we came to an exactly opposite scenario than the assumption we made. 
+
+This finding was really worth noticing for our topic.
+
+

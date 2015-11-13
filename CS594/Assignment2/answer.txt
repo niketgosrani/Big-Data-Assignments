@@ -1,0 +1,5 @@
+most_frequent_word.py: Highest occurring element is ('dorian', 420)
+
+common_words.py: Top 10 Common words [('tom', 1065), ('said', 844), ('got', 786), ('says', 653), ('don', 554), ('come', 530), ('ll', 523), ('time', 516), ('ain', 425), ('just', 419)]
+
+unique_words.py: The Adventures of Tom Sawyer has the highest unique words with count : 7594 compare to The Adventures of Huckleberry Finn which has the unique words with count : 7341

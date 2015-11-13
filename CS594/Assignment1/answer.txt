@@ -1,0 +1,50 @@
+Q1. What is Data Gravity according to the article Cognitive Augmentation? Provide an example of Data Gravity.
+
+Answer :
+
+-> According to the article Cognitive Augmentation Data Gravity's widely recognized now that for truly large datasets, it makes a lot more sense to move compute to the data rather than the other way around - which conflicts with basic architecture of cloud-based analytics services such as predictive APIs.
+-> In other words , Services and Applications can have their own Gravity, but Data is the most massive and dense, therefore it has the most gravity.Data if large enough can be virtually impossible to move and hence the article says to move compute to data rather than other way around.
+-> Best example for Data Gravity can be the same effect Gravity has on objects around a planet. As the mass or density increases, so does the strength of gravitational pull. As things get closer to the mass, they accelerate toward the mass at an increasingly faster velocity.
+
+Q2. What are some of the impetuses behind the proliferation of the Graph Databases technologies.
+
+Answer :
+
+Some of the impetuses behind the proliferation of the Graph Databases technologies are :
+
+-> The rise of sensors and connected devices will lead to applications that draw from network/graph data management and analytics -one can imagine applications that depend on data stored in graphs with many more nodes and edges than the ones currently maintained by social media companies.
+-> Another reason to be optimistic is that tools for graph data are getting tested in many different settings. It’s true that social media applications remain natural users of graph databases and analytics.
+-> Best example which demonstrates proliferation of Graph Databases is mentioned in the article about their use in music industry and medical science.
+
+Q3. According to Ben Lorica, the article "Streamlining Feature Engineering" (p. 53) references the Data Science Pipeline with the final step "Story-Telling". How does that map to our data science approach? In particular, focus on the last part: Visualization.
+
+Answer:
+According to Ben Lorica, the article "Streamlining Feature Engineering" simplifies the data science pipeline to highlight the importance of features and we can map this to our data science approach:
+
+1. Data Acquisition or creation of new Features (raw text/data)
+There are many factors that one has to consider when acquiring data and the most important is what domain does the data reside in. 
+2. Data Storage 
+In understanding the data size we can appropriately select the correct technology by tossing the question out there : What is big ?
+Also we have to check whether the data is structured or unstructured and then decide the storage technology or approach.
+3. Data Analysis or Feature Selection Techniques
+We have to come up with a strategy to analyze the data that we have acquired and derive knowledge. For the purpose of our data science approach we consider the understanding of data like (a)Who-what-when-where ,(b) What's happening  and (c) Why.
+4. Data Visualization
+The ultimate goal is to answer a question that is interesting about the data acquired. Visualization tells the story about the data you've acquired and the analysis you've done on it. A primary goal of data visualization is to communicate information clearly and efficiently to users via the information graphics selected, such as tables and charts. Effective visualization helps users in analyzing and reasoning about data and evidence. It makes complex data more accessible, understandable and usable. 
+A recent example mentioned in the article by Ben Lorica is Dendrite17—an interesting new graph analysis solution from Lab41. It combines Titan (a distributed graph database), GraphLab (for graph analytics), and a front-end that leverages AngularJS, into a Graph exploration and analysis tool for business analysts.
+
+Q4. What is an argument that one might make against the building data science solution through the combination of tools? Provide a concrete example.
+
+Answer:
+
+Applications get easier to build as packaged combinations of open source tools become available. As a user who tends to mix-and-match many different tools, not having to deal with configuring and assembling a suite of tools is a big win. But the argument is that data scientists tended to fall into two camps: those who used an integrated stack, and others who tended to stitch together frameworks. Being able to stick with the same programming language and environment is a definite productivity boost since it requires less setup time and context-switching.The choice of tools for data science includes factors like scalability, performance, and convenience.
+
+Answer the following multiple choice questions. Please refer to the syllabus if you have questions.
+
+1. Regarding the course policy on academic integrity, which of the following action is considered cheating: 
+Answer: (d) All of the above
+
+2. If caught cheating, which of the following is a consequence specific to this course? 
+Answer: (c) Receiving an F for the course
+
+3. I did not cheat on this quiz 
+Answer: (a) true
